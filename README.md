@@ -27,7 +27,7 @@ The dataset can be download [here](https://dataverse.harvard.edu/dataset.xhtml?p
 
 We are still arranging a citation format for this dataset.
 If you are interest in using it, please, contact us so we can provide a proper way of citing us.
-Until we arrange a standard way of citing us, please, do not publish this dataset or results obtained with it without previous explicit consent.
+Until we arrange a standard way of citing us, please, do not publish this dataset or results obtained with it without contacting us, first.
 
 We made use of several other datasets. We list all of them bellow, with proper links to ther sources.
 
