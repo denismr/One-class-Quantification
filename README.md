@@ -7,7 +7,7 @@ Supplementary material for the paper. Download link coming soon.
 Equation for the Overflow, used by ODIn, is wrong. We apologize for that.
 The correct equation is the following:
 
-![Overflow](https://raw.githubusercontent.com/denismr/One-class-Quantification/master/Overflow.svg)
+![Overflow](/Overflow.svg)
 
 ## Current status
 
