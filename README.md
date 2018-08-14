@@ -1,12 +1,18 @@
 # One Class Quantification
 
+## IMPORTANT NOTES
+
+
+## Current status
+
 Supplementary material for the paper.
 
-| Info             | Details                 |
-| -----------------|-------------------------|
-| **Paper status** | SUBMITTED               |
-| **DOI**          | _coming soon_           |
-| **URL**          | _coming soon_           |
+| Info              | Details                 |
+| ------------------|-------------------------|
+| **Paper status**  | IN PRESS                |
+| **Download link** | _coming soon_           |
+| **DOI**           | _coming soon_           |
+| **URL**           | _coming soon_           |
 
 ## Implementations
 
