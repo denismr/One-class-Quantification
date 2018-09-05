@@ -1,6 +1,6 @@
 # One Class Quantification
 
-Supplementary material for the paper. Download link coming soon.
+Supplemental material for the paper. Download link coming soon.
 
 ## IMPORTANT NOTES
 
