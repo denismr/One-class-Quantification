@@ -11,12 +11,12 @@ The correct equation is the following:
 
 ## Current status
 
-| Info              | Details                 |
-| ------------------|-------------------------|
-| **Paper status**  | IN PRESS                |
-| **Download link** | _coming soon_           |
-| **DOI**           | _coming soon_           |
-| **URL**           | _coming soon_           |
+| Info              | Details                                                                      |
+| ------------------|------------------------------------------------------------------------------|
+| **Paper status**  | RELEASED                                                                     |
+| **Download link** | _coming soon_                                                                |
+| **DOI**           | _coming soon_                                                                |
+| **URL**           | [CLICK HERE](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/125.pdf) |
 
 ## Implementations
 
