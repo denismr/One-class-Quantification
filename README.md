@@ -34,6 +34,9 @@ Execute with `luajit Example.lua`.
 In this paper, we introduce one new dataset, _AllSpecies_.
 Class labels and features were obfuscated.
 The dataset can be download [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6J5BXV).
+In our experiments, the positive class is class number 2.
+The negative subclasses are 1, 3, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 20, 22, 24.
+Other classes in the file are unused.
 
 We are still arranging a citation format for this dataset.
 If you are interest in using it, please, contact us so we can provide a proper way of citing us.
