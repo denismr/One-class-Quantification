@@ -31,10 +31,12 @@ Execute with `luajit Example.lua`.
 
 ## Datasets
 
-In this paper, we introduce one new dataset, _AllSpecies_.
+In this paper, we introduce one new dataset, _AllSpecies_ (referred to as Insects).
 Class labels and features were obfuscated.
 The dataset can be download [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6J5BXV).
-In our experiments, the positive class is class number 2.
+
+
+In our experiments, the positive class in the Insects dataset is class number 2.
 The negative subclasses are 1, 3, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 20, 22, 24.
 Other classes in the file are unused.
 
