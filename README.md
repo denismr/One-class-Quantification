@@ -51,6 +51,6 @@ We made use of several other datasets. We list all of them bellow, with proper l
  - [Pen Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits)
  - [HTRU2](https://archive.ics.uci.edu/ml/datasets/HTRU2)
  - [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
- - [BNG Japanese Vowels](https://www.openml.org/d/1214)
+ - [BNG Japanese Vowels](https://www.openml.org/d/1214) (only the coefficients were used as features)
  - [Letter](https://www.openml.org/d/6)
  - [Handwritten](https://github.com/denismr/Unsupervised-Context-Switch-For-Classification-Tasks)
