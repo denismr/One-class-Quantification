@@ -50,7 +50,7 @@ We made use of several other datasets. We list all of them bellow, with proper l
  - [Anuran Calls](https://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29)
  - [Pen Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits)
  - [HTRU2](https://archive.ics.uci.edu/ml/datasets/HTRU2)
- - [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+ - [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) (please, note that we pre-processed this dataset. Contact us if you need our processed version).
  - [BNG Japanese Vowels](https://www.openml.org/d/1214) (only the coefficients were used as features)
  - [Letter](https://www.openml.org/d/6)
  - [Handwritten](https://github.com/denismr/Unsupervised-Context-Switch-For-Classification-Tasks)
